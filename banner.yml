@@ -1,0 +1,12 @@
+title: CyberCitizens
+description: CyberCitizens are playable NFTs with multiple upcoming utilities inside the CyberVerse. By holding at least one CyberCitizen, you will be given early access to CyberVerse game as a beta-tester.
+image: http://ipfs.io/ipfs/QmfGgWjuJMQDHy5iVgqw6yhRKBNTCzsKS8MqF8xDKieLWU
+mintAddresses:
+  - 9hfNCyqJsCSku8HXrV17Y6AaQciCAwkwx4M49imdWjRaTX22Mvz
+bannerLinks:
+  - label: Twitter
+    url: https://twitter.com/CyberVerse_io
+    icon: fa-brands fa-twitter fa-fw
+  - label: Discord
+    url: https://discord.com/invite/wwDPzNxScS
+    icon: fa-brands fa-discord fa-fw
