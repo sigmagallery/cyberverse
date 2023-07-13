@@ -11,3 +11,6 @@ bannerLinks:
   - label: Discord
     url: https://discord.com/invite/wwDPzNxScS
     icon: fa-brands fa-discord fa-fw
+  - label: Website
+    url: https://cybercitizens.io/
+    icon: fa-solid fa-globe fa-fw
