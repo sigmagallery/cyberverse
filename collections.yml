@@ -1,3 +1,7 @@
 collections:
 - label: CyberCitizens
   data: cybercitizens.yml
+  image: https://ipfs.io/ipfs/QmdVmYP3661rT4aqRCa7tTcr2Zhn1jzrxe5mpmZiJFLQfC
+- label: CyberPets
+  data: cyberpets.yml
+  image: https://ipfs.io/ipfs/QmYzDpkBn1eJhYR1xpTdRHytadrNrsV5HAEuAn1g4cp6yG/8.png
