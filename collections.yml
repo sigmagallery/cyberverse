@@ -7,3 +7,7 @@ collections:
   data: cyberpets.yml
   image: https://ipfs.io/ipfs/QmYzDpkBn1eJhYR1xpTdRHytadrNrsV5HAEuAn1g4cp6yG/8.png
   description: "Cyberpets are creatures that owners of CyberEggs can hatch. The collection is part of CyberVerse project.   Each egg rarity level corresponds to a different set of pets that have different chances of being obtained from that specific egg.  There are  72 different animals, each has 8 different skin colors, robotic parts for each body part and 8 different background.  Once the pets will be added in the game, Each pet will have randomly generated stats (in the game), but the robotic parts and animal overall also contribute to the pet's stats."
+- label: Cyberia Estates
+  data: cyberiaestates.yml
+  image: https://gateway.ipfs.io/ipfs/bafkreibzu4b3l4d6abyupozeqwek6pti5rdyrws6m4eowssvymvmyelzvy
+  description: "CyberCitizens is proud to present Cyberia Estates, the first apartments available for purchase within Cyberia! Currently available 4 Sizes (small, medium, large and penthouse). These apartments will be featured in our game, holding one will give access to your in-game apartment which you may customize with various furniture!"
