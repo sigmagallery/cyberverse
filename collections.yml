@@ -1,13 +1,13 @@
 collections:
 - label: CyberCitizens
   data: cybercitizens.yml
-  image: https://ipfs.io/ipfs/QmdVmYP3661rT4aqRCa7tTcr2Zhn1jzrxe5mpmZiJFLQfC
+  image: https://img1.sigma.gallery/cyberverse/cybercitizens/2fa48bfc91f16a656a8c7f2d0389fd311130cd5ab01e64b70e13ae8ec79bc42e.webp
   description: "CyberCitizens are playable NFTs with multiple upcoming utilities inside the CyberVerse. By holding at least one CyberCitizen, you will be given early access to CyberVerse game as a beta-tester."
 - label: CyberPets
   data: cyberpets.yml
-  image: https://ipfs.io/ipfs/QmYzDpkBn1eJhYR1xpTdRHytadrNrsV5HAEuAn1g4cp6yG/8.png
+  image: https://img1.sigma.gallery/cyberverse/cyberpets/04e80b6e4312edf1d7abdd876d38782d2686bc8f42ce40ccdfad6c1aa0c21bbe.webp
   description: "Cyberpets are creatures that owners of CyberEggs can hatch. The collection is part of CyberVerse project.   Each egg rarity level corresponds to a different set of pets that have different chances of being obtained from that specific egg.  There are  72 different animals, each has 8 different skin colors, robotic parts for each body part and 8 different background.  Once the pets will be added in the game, Each pet will have randomly generated stats (in the game), but the robotic parts and animal overall also contribute to the pet's stats."
 - label: Cyberia Estates
   data: cyberiaestates.yml
-  image: https://gateway.ipfs.io/ipfs/bafkreibzu4b3l4d6abyupozeqwek6pti5rdyrws6m4eowssvymvmyelzvy
+  image: https://img1.sigma.gallery/cyberverse/cyberia-estates/4b5bb0bf5ac8dbe66ffab8b58433d442b1f0ed80be5b831659e430d4ec6e54bd.webp
   description: "CyberCitizens is proud to present Cyberia Estates, the first apartments available for purchase within Cyberia! Currently available 4 Sizes (small, medium, large and penthouse). These apartments will be featured in our game, holding one will give access to your in-game apartment which you may customize with various furniture!"
