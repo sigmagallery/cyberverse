@@ -1,44 +1,4 @@
 nfts:
-- tokenId: c69f4feefb4fc7c7eada9dbd1dc80ac78097e4402de95b935470750e1eea8038
-  name: PixelErgonauts
-  description: '#001 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/bPF0B5N/ergonautblack.png
-- tokenId: 3841c7f5151450cb606bb2d5c7d07a6586d89433e5f9327abf44c736d32f5f68
-  name: PixelErgonauts
-  description: '#002 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/LRpJ6hR/ergonautwhite.png
-- tokenId: b6173006f8c284bb0ff65c1e265c3aaa6c16cd19310a69b6ead7f4eaedc0956e
-  name: PixelErgonauts
-  description: '#003 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-- tokenId: 17e4f6eb1fd13e5f4ff5053bbb30bae1b4f9e8ed15abb0f33d193042b61ac2c0
-  name: PixelErgonauts
-  description: '#004 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/rfGs3qk/ergonautgreen.png
-- tokenId: 42910003c3891caa6c43e46caa85c5371bac361d560faaf55eb54d22db2fdbe9
-  name: PixelErgonauts
-  description: '#005 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/hRyxJS7/ergonautorange.png
-- tokenId: bd38520e46a52eca83cfa6d16a40bc6f225089f0c2d0d1a2c40d727d09db1795
-  name: PixelErgonauts
-  description: '#006 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/VS09nVZ/ergonautpink.png
-- tokenId: 945cc1681bedad75a0d88c2cf713704041c468661331b9a70355eb6c46e709fa
-  name: PixelErgonauts
-  description: '#007 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/p08ch7N/ergonautpurple.png
-- tokenId: 57eb236d53eb9ca8f5f3da863930bc705b10514f69a17d51a952225dedbd82a5
-  name: PixelErgonauts
-  description: '#008 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/z2WNmXD/ergonautred.png
-- tokenId: 6fa39b2f3ab8b1dd26900c51ea30102696402eecddd65c8df7d59924b00c07f8
-  name: PixelErgonauts
-  description: '#009 | From the PixelErgonauts Collection | Unique NFT (1/1)'
-  imageUrl: https://i.ibb.co/rwJkG43/ergonautyellow.png
-- tokenId: 70ae802f1beb1a0f95dfe7b6cffb11be664f5571a4e9d6c75b6e47758587bec8
-  name: PixelErgonauts
-  description: '"Ranger" | #010 | From the PixelErgonauts Collection |'
-  imageUrl: https://i.ibb.co/qmTsYwF/ergonauts-2-0.png
-- tokenId: 27cd91146138f19f82bc7bd605decd6e46ef45968cbcc128d76ab8d8809072fc
   name: '#011 | Einstein | by ErgoPixels'
   description: '#011 | by ErgoPixels | Unique NFT (1/1)'
   imageUrl: https://i.ibb.co/kM40X65/011.png
