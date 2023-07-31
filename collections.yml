@@ -11,3 +11,7 @@ collections:
   data: cyberiaestates.yml
   image: https://img1.sigma.gallery/cyberverse/cyberia-estates/4b5bb0bf5ac8dbe66ffab8b58433d442b1f0ed80be5b831659e430d4ec6e54bd.webp
   description: "CyberCitizens is proud to present Cyberia Estates, the first apartments available for purchase within Cyberia! Currently available 4 Sizes (small, medium, large and penthouse). These apartments will be featured in our game, holding one will give access to your in-game apartment which you may customize with various furniture!"
+- label: ErgoPixels
+  data: ergopixels.yml
+  image: 
+  description: "ErgoPixels are one of the first collections ever minted on the Ergo blockchain, consisting of 250 manually drawn characters, inspired by real people and imaginary creations. There will only ever be 250 ErgoPixels."
